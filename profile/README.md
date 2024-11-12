@@ -126,10 +126,10 @@ http://localhost:5173
 
 ## Team Members
 
-- **William Alston**: Project Lead
-- **Zach**: Frontend Developer & UI/UX Design
-- **Connor**: Backend & API Integration Specialist
-- **Anisa**: Infrastructure & Deployment
+- **William A.**: Project Lead & Infrastructure & Deployment
+- **Zach W.**: Frontend Developer & UI/UX Design
+- **Connor B.**: Backend & API Integration Specialist
+- **Anisa H.**: Mental Health SME
 
 ## Troubleshooting
 
