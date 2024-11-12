@@ -93,20 +93,13 @@ Set up the `.env` files for both the frontend and backend:
 - **Start the Vue Development Server**
   ```bash
   cd ../DiscoverMe-GUI
-  npm run serve
+  npm run dev
   ```
-
-- **Deploy Infrastructure (AWS)**
-  ```bash
-  cd ../DiscoverMe-Infra
-  cdk deploy
-  ```
-
 ### 5. Access the Application
 
 Open your browser and go to:
 ```
-http://localhost:8080
+http://localhost:5173
 ```
 
 ## Project Structure
